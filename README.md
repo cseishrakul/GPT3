@@ -1,5 +1,5 @@
 # GPT-3 React Web Template
-
+![GPT-3](https://i.imgur.com/DPIVy7t.png)
 This React web template is constructed with JSX and styled using CSS, offering a flexible base for a variety of web development projects.
 
 ## Documentation
@@ -21,10 +21,6 @@ To run this project on your computer, follow these steps:
 ## Demo
 
 Explore the live demo of the project: [Live Demo](https://thriving-torrone-796253.netlify.app/)
-
-## Screenshots
-
-![GPT-3](https://i.imgur.com/DPIVy7t.png)
 
 ---
 Feel free to reach out for any questions or feedback.
