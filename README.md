@@ -24,7 +24,7 @@ Explore the live demo of the project: [Live Demo](https://thriving-torrone-79625
 
 ## Screenshots
 
-![GPT-3](https://imgur.com/DPIVy7t)
+![GPT-3](https://i.imgur.com/DPIVy7t.png)
 
 ---
 Feel free to reach out for any questions or feedback.
